@@ -8,7 +8,13 @@ public class Calc {
 }
 
 	public double sub(double a, double b){
-	double result = a + b;
+	double result = a - b;
 	return result;
 	}
+	
+	public double mul(double a, double b){
+		double result = a * b;
+		return result;
+		}
 }
+
