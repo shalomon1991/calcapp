@@ -7,4 +7,8 @@ public class Calc {
 	return result;
 }
 
+	public double sub(double a, double b){
+	double result = a + b;
+	return result;
+	}
 }
