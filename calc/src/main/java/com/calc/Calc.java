@@ -21,4 +21,9 @@ public class Calc {
 		double result = a * b;
 		return result;
 	}
+	
+	public double add1(double a, double b) {
+		double result = a * b;
+		return result;
+	}
 }
